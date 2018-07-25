@@ -20,6 +20,8 @@
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <None Include="packages.config" />
+    <Image Include="..\..\..\..\..\Downloads\LAND.BMP">
+      <Filter>Resource Files</Filter>
+    </Image>
   </ItemGroup>
 </Project>
